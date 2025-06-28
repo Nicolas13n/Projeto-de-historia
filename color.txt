@@ -1,0 +1,6 @@
+- Fundo do site: #EFE6DD (bege suave)
+- Cabeçalho: #8B0000 (vermelho escuro)
+- Menu: #FFFFFF com texto #8B0000
+- Botões: #FFD700 (amarelo ouro)
+- Texto principal: #3E2F23 (marrom escuro)
+- Rodapé: #3E2F23 com texto #EFE6DD
