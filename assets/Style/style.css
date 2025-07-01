@@ -162,7 +162,7 @@ nav.active .nav-list a {
   background-color: #8b0000;
   padding: 20px;
   border-radius: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 100px;
 }
 
 .slider-item.active {
@@ -174,7 +174,7 @@ nav.active .nav-list a {
 }
 
 .slider-item img {
-  width: 200px;
+  width: 400px;
   height: 30%;
   border-radius: 10px;
 }
