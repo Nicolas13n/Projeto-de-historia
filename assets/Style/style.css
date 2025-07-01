@@ -159,7 +159,7 @@ nav.active .nav-list a {
 }
 
 .slider-item {
-    width: 100%;
+    width: 400px;
     height: 30%;
     display: none;
     background-color: #8B0000;
